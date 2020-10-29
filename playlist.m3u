@@ -1,5 +1,12 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="",AMARNETTV:INTERNET TV FOR ALL
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CU8yXc7.png" group-title="BANGLA (Free)",## BANGLA ENTERTAINMENT ##
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/amarnettvFree.mp4
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/40yvi62wy59gu3r/sangsad_tv_bd.png" group-title="BANGLA (Free)",Sangsad TV [BD]
+https://ott.bingebd.com:443/live/ngrp:sangsad_tv_all/playlist.m3u8
+
 #EXTINF:-1 group-title="BDIX1", EKATTOR TV HD [BD]
 http://103.102.136.106:8080/cmcltv/ekator.m3u8
 #EXTINF:-1 group-title="BDIX1", JAMUNA TV [BD]
