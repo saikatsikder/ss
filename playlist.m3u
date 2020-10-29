@@ -1,61 +1,61 @@
 #EXTM3U
 
-#EXTINF:-1, group-title="BDIX1", EKATTOR TV HD [BD]
+#EXTINF:-1 group-title="BDIX1", EKATTOR TV HD [BD]
 http://103.102.136.106:8080/cmcltv/ekator.m3u8
-#EXTINF:-1, group-title="BDIX1", JAMUNA TV [BD]
+#EXTINF:-1 group-title="BDIX1", JAMUNA TV [BD]
 http://103.102.136.106:8080/cmcltv/jamuna.m3u8
-#EXTINF:-1, group-title="BDIX1", NEWS 24 HD [BD]
+#EXTINF:-1 group-title="BDIX1", NEWS 24 HD [BD]
 http://103.102.136.106:8080/cmcltv/news24.m3u8
-#EXTINF:-1, group-title="BDIX1", DBC NEWS HD [BD]
+#EXTINF:-1 group-title="BDIX1", DBC NEWS HD [BD]
 http://103.102.136.106:8080/cmcltv/dbcnews.m3u8
-#EXTINF:-1, group-title="BDIX1", DURONTO TV [BD]
+#EXTINF:-1 group-title="BDIX1", DURONTO TV [BD]
 http://103.102.136.106:8080/cmcltv/duronto.m3u8
-#EXTINF:-1, group-title="BDIX1", COLORS
+#EXTINF:-1 group-title="BDIX1", COLORS
 http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
-#EXTINF:-1, group-title="BDIX1", Sony Aath [IN] (1)
+#EXTINF:-1 group-title="BDIX1", Sony Aath [IN] (1)
 http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
-#EXTINF:-1, group-title="BDIX1", CHANNEL 9 HD [BD]
+#EXTINF:-1 group-title="BDIX1", CHANNEL 9 HD [BD]
 http://103.102.136.106:8080/cmcltv/channel9.m3u8
-#EXTINF:-1, group-title="BDIX1", GAZI TV HD [BD]
+#EXTINF:-1 group-title="BDIX1", GAZI TV HD [BD]
 http://103.102.136.106:8080/cmcltv/gtv.m3u8
-#EXTINF:-1, group-title="BDIX1", Gtv
+#EXTINF:-1 group-title="BDIX1", Gtv
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-#EXTINF:-1, group-title="BDIX1", Independent TV
+#EXTINF:-1 group-title="BDIX1", Independent TV
 http://103.102.136.106:8080/cmcltv/independent.m3u8
-#EXTINF:-1, group-title="BDIX1", BBC World News
+#EXTINF:-1 group-title="BDIX1", BBC World News
 http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
-#EXTINF:-1, group-title="BDIX1", Zee Bangla
+#EXTINF:-1 group-title="BDIX1", Zee Bangla
 http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
-#EXTINF:-1, group-title="BDIX1", Colors Bangla
+#EXTINF:-1 group-title="BDIX1", Colors Bangla
 http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
-#EXTINF:-1, group-title="BDIX1", Sony
+#EXTINF:-1 group-title="BDIX1", Sony
 http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
-#EXTINF:-1, group-title="BDIX1", Live Sports
+#EXTINF:-1 group-title="BDIX1", Live Sports
 http://103.102.136.106:8080/cmcltv/livesports.m3u8
-#EXTINF:-1, group-title="BDIX1", Star Jalsha
+#EXTINF:-1 group-title="BDIX1", Star Jalsha
 http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
-#EXTINF:-1, group-title="BDIX1", Star Sports 1
+#EXTINF:-1 group-title="BDIX1", Star Sports 1
 http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
-#EXTINF:-1, group-title="BDIX1", Sports Live https://iptv.live
+#EXTINF:-1 group-title="BDIX1", Sports Live https://iptv.live
 http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
 
-#EXTINF:-1, group-title="BDIX2", And Pictures
+#EXTINF:-1 group-title="BDIX2", And Pictures
 http://z5amshls.akamaized.net/andpicssd/tracks-v1a1/index.m3u8
-#EXTINF:-1, group-title="BDIX2", Zee Cinema HD
+#EXTINF:-1 group-title="BDIX2", Zee Cinema HD
 http://z5amshls.akamaized.net/zcinemahd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, group-title="BDIX2", Zee Action
+#EXTINF:-1 group-title="BDIX2", Zee Action
 http://z5amshls.akamaized.net/action/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, group-title="BDIX2", And Flix
+#EXTINF:-1 group-title="BDIX2", And Flix
 http://z5amshls.akamaized.net/andflix/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, group-title="BDIX2", And Prive
+#EXTINF:-1 group-title="BDIX2", And Prive
 http://z5amshls.akamaized.net/andprivehd/tracks-v1a1/playlist.m3u8
-#EXTINF:-1, group-title="BDIX2", Manoranjan Movies
+#EXTINF:-1 group-title="BDIX2", Manoranjan Movies
 http://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in_480p/index.m3u8
-#EXTINF:-1, group-title="BDIX2", Bflix Movies
+#EXTINF:-1 group-title="BDIX2", Bflix Movies
 https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
-#EXTINF:-1, group-title="BDIX2", MAHA MOVIE
+#EXTINF:-1 group-title="BDIX2", MAHA MOVIE
 https://m-c036-j2apps.s.llnwi.net/hls/2820.MahaMovie.in.m3u8
-#EXTINF:-1, group-title="BDIX2", B4U Kadak
+#EXTINF:-1 group-title="BDIX2", B4U Kadak
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1, group-title="BDIX2", Mastiii
+#EXTINF:-1 group-title="BDIX2", Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
