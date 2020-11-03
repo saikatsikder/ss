@@ -153,49 +153,49 @@ https://cdnr.appv.jagobd.com:444/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="TBN 24 USA" tvg-logo="https://m3u-editor.com/storage/channel-logos/e31c5690-e3a0-11ea-bc14-65067d7d2623/525787/88978848.png" group-title="BANGLA BD",TBN 24 USA
 http://fingerme.dg21bd.com/TBN24/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 ,Unknown_1
+#EXTINF:-1 group-title="BINGE TV",SONY ATH
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_aathPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_2
+#EXTINF:-1 group-title="BINGE TV",SHOMOY TV
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_somoy_newsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b3506516.m3u8
-#EXTINF:-1 ,Unknown_3
+#EXTINF:-1 group-title="BINGE TV",POGO
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_pogoPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_4
+#EXTINF:-1 group-title="BINGE TV",VH1 HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_vh1PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b8336965.m3u8
-#EXTINF:-1 ,Unknown_5
+#EXTINF:-1 group-title="BINGE TV",SONY TEN 2 HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_ten_2PQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b8628877.m3u8
-#EXTINF:-1 ,Unknown_6
+#EXTINF:-1 group-title="BINGE TV",SONY HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonyPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6804186.m3u8
-#EXTINF:-1 ,Unknown_7
+#EXTINF:-1 group-title="BINGE TV",DESH TV
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_desh_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b5451255.m3u8
-#EXTINF:-1 ,Unknown_8
+#EXTINF:-1 group-title="BINGE TV",SONY SAB
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sabPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_9
+#EXTINF:-1 group-title="BINGE TV",NAT GEO
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nat_geo_inPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2822489.m3u8
-#EXTINF:-1 ,Unknown_10
+#EXTINF:-1 group-title="BINGE TV",STAR JALSHA HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_star_jalsha_hdPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b8096761.m3u8
-#EXTINF:-1 ,Unknown_11
+#EXTINF:-1 group-title="BINGE TV",ZEE BANGLA HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_zee_banglaPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6107607.m3u8
-#EXTINF:-1 ,Unknown_12
+#EXTINF:-1 group-title="BINGE TV",JALSHA MOVIES
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_jalsha_moviesPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2805292.m3u8
-#EXTINF:-1 ,Unknown_13
+#EXTINF:-1 group-title="BINGE TV",NICK
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nickelodeonPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2411291.m3u8
-#EXTINF:-1 ,Unknown_15
+#EXTINF:-1 group-title="BINGE TV",SONIC
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sonicPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_16
+#EXTINF:-1 group-title="BINGE TV",DURONTO
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_duronto_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_17
+#EXTINF:-1 group-title="BINGE TV",SONY MAX HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_maxPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b5168285.m3u8
-#EXTINF:-1 ,Unknown_18
+#EXTINF:-1 group-title="BINGE TV",MTV BEATS
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_mtv_beatsPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_19
+#EXTINF:-1 group-title="BINGE TV",SONY BBC EARTH HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_bbc_earthPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b7381817.m3u8
-#EXTINF:-1 ,Unknown_20
+#EXTINF:-1 group-title="BINGE TV",FOX LIFE
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_fox_lifePQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2942934.m3u8
-#EXTINF:-1 ,Unknown_21
+#EXTINF:-1 group-title="BINGE TV",HBO
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_hboPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2356848.m3u8
-#EXTINF:-1 ,Unknown_22
+#EXTINF:-1 group-title="BINGE TV",SONY YAY
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_yayPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b2128000.m3u8
-#EXTINF:-1 ,Unknown_23
+#EXTINF:-1 group-title="BINGE TV",SONY PIX HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_sony_pixPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6850950.m3u8
-#EXTINF:-1 ,Unknown_24
+#EXTINF:-1 group-title="BINGE TV",NAGORIK HD
 https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nagorik_tvPQRT_98sdfhs0_f36erxty_forsgst63_DH/chunklist_b6493949.m3u8
