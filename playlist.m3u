@@ -445,3 +445,24 @@ https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="Sony Ten 3 HD" group="EXTRAS" logo="https://i.imgur.com/9mL944k.jpg", Sony Ten 3 HD
 https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Star Sports 1 HD" group="MYISP", Star Sports 1 HD
+http://172.22.22.76/live/feed1002/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Sony Ten 1" group="MYISP", Sony Ten 1
+http://172.22.22.76/live/feed1003/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Channel 3" group="MYISP", Channel 3
+http://172.22.22.76/live/feed1004/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Channel 4" group="MYISP", Channel 4
+http://172.22.22.76/live/feed1005/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Channel I" group="MYISP", Channel I
+http://172.22.22.76/live/feed1001/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Shomoy TV" group="MYISP", Shomoy TV
+http://172.22.22.76/live/feed1006/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Test" group="MYISP", Masranga Test
+http://103.135.208.14:8082/51/index.m3u8?token=2f4506b257d87f97b544c7105212b7a67d6581c9-b618745ec27f4962bc4eba8851c0e408-1604521521-1604510721&remote=103.205.69.192
