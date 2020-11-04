@@ -202,3 +202,246 @@ https://ott.bingebd.com/live/ngrp:APNTn-asdt-t1asnd2a-sWgtsrhQW_AQTY1025_nagorik
 
 #EXTINF:-1 group-title="SPORTS",SKY SPORTS HD
 https://dx4.gcdn.co/UK1302/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="67" group="EXTRAS" logo="https://i.imgur.com/iXwGMoe.png", TLC [HINDI]
+https://streamitv.multitvsolution.in/idvo/tlchdhindi.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://www.dishurdu.com/images/PK-Sports-Logo.png", PK Sports HD
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/pksports.stream/live-orgin/pksports.stream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1 HD
+http://113.212.111.246:8080/hls/col30.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/KhZPrnw.jpg" shift="1", Star Sports 2 HD (1)
+http://global.thunderbd.com/26/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/9w8g48Y.jpg" shift="1", Star Sports Select 1 HD (1)
+http://global.thunderbd.com/27/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" shift="1", Star Sports Select 2 HD (1)
+http://global.thunderbd.com/28/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://tv.bdtype.com/uploads/tv_image/star-sports-select-2.jpg" shift="2", Star Sports Select 2 HD (2)
+http://103.102.136.106:8080/cmcltv/livesports.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/fRivJD3.jpg", Al Jazeera FHD
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="363" group="EXTRAS" logo="https://i.imgur.com/fRivJD3.jpg", Al Jazeera SD
+https://live-hls-web-aje.getaj.net/AJE/03.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="1143" group="EXTRAS" logo="https://i.imgur.com/UxBVq6Z.png", BBC News
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Maasranga_Television_Logo.jpg/180px-Maasranga_Television_Logo.jpg", MAASRANGA TV HD [BD]
+http://103.102.136.106:8080/cmcltv/masranga_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" shift="1", Star Jalsha HD [IN] (1)
+http://ctgiptv.kitv.live:1935/live/test/test1/27.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg", Star Jalsha SD [IN]
+http://103.102.136.106:8080/cmcltv/tcm_starjalshacm.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" shift="2", Star Jalsha HD [IN] (2)
+https://yuppcatchup.akamaized.net/preview/starjalsha/1800.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" shift="2", Zee Bangla HD [IN] (2)
+http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/26.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/8/85/Colors_Bangla_Logo.jpg", Colors Bangla SD [IN]
+http://103.102.136.106:8080/cmcltv/tcm_colorsbanglacm.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Sony_Aath_logo.svg/1200px-Sony_Aath_logo.svg.png" shift="1", Sony Aath [IN] (1)
+http://103.102.136.106:8080/cmcltv/tcm_sonyaat.m3u8
+
+#EXTINF:0 type="stream" channelId="253" group="EXTRAS" logo="https://akamaividz.zee5.com/resources/0-9-zeetv/list/386x386/09zeetvzeetv.png", Zee TV
+http://dx3.gcdn.co/hindi-ZEETV/index.m3u8
+
+#EXTINF:0 type="stream" channelId="3129" group="EXTRAS" logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png", Zee Cinema HD
+https://y5w8j4a9.ssl.hwcdn.net/zcinemahd/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://akamaividz.zee5.com/resources/0-9-zeeanmolcinema/list/386x386/09zeeanmolcinemazeeanmolci.png", Zee Anmol Cinema
+https://y5w8j4a9.ssl.hwcdn.net/zanmolcnm/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Pictures_HD.png", & Picture HD
+https://y5w8j4a9.ssl.hwcdn.net/andpicshd/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://vignette.wikia.nocookie.net/logopedia/images/a/a3/Zee_Caf%C3%A9_2017.svg/revision/latest/scale-to-width-down/340?cb=20200316145807", Zee Cafe
+https://y5w8j4a9.ssl.hwcdn.net/zeecafesd/tracks-v1a1/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_ant_entertainment_logo.png/220px-Blue_ant_entertainment_logo.png", Blue Ant Entertainment
+https://livecdn.fptplay.net/hda/blueantent_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Blue_ant_extreme_logo.png/220px-Blue_ant_extreme_logo.png", Blue Ant Extreme
+https://livecdn.fptplay.net/hda/blueantext_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 type="stream" channelId="1862" group="EXTRAS" logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png", Fox Movies
+https://livecdn.fptplay.net/foxlive/foxmovieshd_hls.smil/chunklist_b1200000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://foxfamilymovies.foxmoviesasia.com/images/ffm.png", Fox Family Movies HD
+https://livecdn.fptplay.net/hda/foxfamilymovies_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/smmZBzH.png", MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/uXHPdeq.jpg", MBC 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/diJCR16.png", MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/HGmC8ea.png", 24 Box TV
+http://51.158.190.97/hls/stream.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/E932mKv.jpg", Cine Film
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-film_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/TCRYibC.png", ABZY MOVIES
+https://m-c01-j2apps.s.llnwi.net/hls/5290.SkystarMovies.in.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/fPuBXRz.jpg", MANORANJAN MOVIES
+https://m-c036-j2apps.s.llnwi.net/hls/2172.ManoranjanMovies.in.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/TkRBcZX.jpg", MANORANJAN TV
+https://streamitv.multitvsolution.in/idvo/manoranjantv.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/fAYvAQK.png", MAHA MOVIE
+https://streamitv.multitvsolution.in/idvo/mahamovie.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://b4utv.com/b4uadmin/uploads/news/0_18190800_1531139203.jpg", B4U Plus
+http://178.132.3.162:88/B4U_Plus/video.m3u8?token=test
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://www.tvchannelpricelist.com/wp-content/uploads/channels-logo-300/bflix-movies-logo-300x300.jpg", Bflix Movies
+https://m-c036-j2apps.s.llnwi.net/hls/5045.BFlixMovies.in_480p/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424363/71120906.png", ICC_Sangeet Bangla
+http://103.205.133.50/hls/sangeetbangla.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/uPgH7dT.png", ICC_Bangla Time
+http://103.205.133.50/hls/banglatime.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://concordrope.com/hzbd-iptv/logo/zee_cinema.png", ICC_ZEE CINEMA
+http://103.205.133.50/hls/zeecinema.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120817.png", ICC_Mtv
+http://103.205.133.50/hls/chsm.m3u8
+
+#EXTINF:0 type="stream" channelId="240" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/220px-2018_Animal_Planet_logo.svg.png", ANIMAL PLANET HD [HINDI]
+https://streamitv.multitvsolution.in/idvo/aphdhindi.m3u8
+
+#EXTINF:0 type="stream" channelId="57" group="EXTRAS" logo="https://i.imgur.com/ESeGnT2.jpg", Discovery [HINDI]
+https://streamitv.multitvsolution.in/idvo/discoveryhindi.m3u8
+
+#EXTINF:0 type="stream" channelId="58" group="EXTRAS" logo="https://i.imgur.com/4Wfs9kj.png", Discovery Science [ENGLISH]
+https://streamitv.multitvsolution.in/idvo/discoverscienceeng.m3u8
+
+#EXTINF:0 type="stream" channelId="56" group="EXTRAS" logo="https://i.imgur.com/7EppR2X.png", NAT GEO
+http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/ogzQuzh.jpg", Cine Series
+https://bozztv.com/36bay2/gin/giniko_tvbox-cine-series_800kb_36bay2/tracks-v1a1/mono.m3u8?@amarnettv.live
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://seeklogo.com/images/Y/youtube-tv-shows-logo-16EB8B9C93-seeklogo.com.png", TV Series
+http://203.154.243.89:1423
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/ul1hoiovemyyhp8/channel_i.png", CHANNEL I HD [BD]
+http://103.102.136.106:8080/cmcltv/channeli_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/189fwepu9ab32gw/channel9_bd.png", CHANNEL 9 HD [BD]
+http://103.102.136.106:8080/cmcltv/channel9_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/leielj83em5kg7h/somoy_news.png", SOMOY TV [BD]
+http://103.102.136.106:8080/cmcltv/somoy_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/puf12xv5flgbnz5/channel24_bd.png", CHANNEL 24 [BD]
+http://103.102.136.106:8080/cmcltv/channel24_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/5/5d/Ekattor_TV_logo.png", EKATTOR TV HD [BD]
+http://103.102.136.106:8080/cmcltv/ekator_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png", JAMUNA TV [BD]
+http://103.102.136.106:8080/cmcltv/jamuna_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/bl983avhouqd47c/news_24_bd.png", NEWS 24 HD [BD]
+http://103.102.136.106:8080/cmcltv/news24-th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/lj9s11dqzleti2a/dbc_news_bd.png", DBC NEWS HD [BD]
+http://103.102.136.106:8080/cmcltv/dbcnews_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/zz46867ifm3fm6i/duronto-tv-bd.png", DURONTO TV [BD]
+http://103.102.136.106:8080/cmcltv/duronto_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Gaan_Bangla.png/220px-Gaan_Bangla.png", Gaan Bangla [BD]
+http://103.102.136.106:8080/cmcltv/gaanbangla_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" shift="2", Zee Bangla SD [IN] (2)
+http://103.102.136.106:8080/cmcltv/tcm_zeebanglacm.m3u8
+
+#EXTINF:0 type="stream" channelId="3483" group="EXTRAS" logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_HD.png", COLORS
+http://103.102.136.106:8080/cmcltv/tcm_colors.m3u8
+
+#EXTINF:0 type="stream" channelId="188" group="EXTRAS" logo="https://origindev-static.sonyliv.com/UI_icons/SET_india_HD.png", SONY
+http://103.102.136.106:8080/cmcltv/tcm_sonyhdcm.m3u8
+
+#EXTINF:0 type="stream" channelId="3132" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/5/58/Sonymax.jpg", SONY Max
+http://103.102.136.106:8080/cmcltv/tcm_sonymax.m3u8
+
+#EXTINF:0 type="stream" channelId="3128" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png", Zee Cinema
+http://103.102.136.106:8080/cmcltv/tcm_zeecinema.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://upload.wikimedia.org/wikipedia/en/e/ed/Logo_of_Indian_television_channel_%26Pictures.jpg", And Pictures
+http://103.102.136.106:8080/cmcltv/tcm_&pictures.m3u8
+
+#EXTINF:0 type="stream" channelId="1143" group="EXTRAS" logo="https://i.imgur.com/UxBVq6Z.png", BBC News
+http://103.102.136.106:8080/cmcltv/tcm_bbc.m3u8
+
+#EXTINF:0 type="stream" channelId="363" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTYv63NeTuzF6JQ2e2JnQVpWpcF3c_PtO0-ymSRtcGGaefvMkeq&usqp=CAU", Al Jazeera
+http://103.102.136.106:8080/cmcltv/al-jazeera.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSU1ws4_gATfoOPflkM8o6dpJSomQ_9IO4LRKXiNo5IxJbSuFf4&usqp=CAU", CNN News
+http://103.102.136.106:8080/cmcltv/tcm_cnnnews.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU", Live Sports 2
+http://103.102.136.106:8080/cmcltv/livesports-2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU", Live Sports 3
+http://103.102.136.106:8080/cmcltv/tcm_live3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRGIMKZny9iOwyHjXWYk6r6sCCq6UMW2rZGUg&usqp=CAU", Live Sports 4
+http://103.102.136.106:8080/cmcltv/tcm_live4.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU", Star Sports 1
+http://103.102.136.106:8080/cmcltv/tcm_StarSports1cm.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSNVGhs7QhbNaKPnV8CB3v-AWYPXm0Ogk67mx__hKnLLrEddb-y&usqp=CAU", Sony Ten 1
+http://103.102.136.106:8080/cmcltv/tcm_ten1.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQBTnEK5BWeUD2NioqBxKSXvBrS2hOvgtATkw&usqp=CAU", Sony Ten 2
+http://103.102.136.106:8080/cmcltv/tcm_ten2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSl1Yq3bZ22fNuVU2Mv6QoJ3oWXL8MuIFWeSRFvaJaS7PkODkoe&usqp=CAU", Sony Ten 3
+http://103.102.136.106:8080/cmcltv/tcm_ten3.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://image3.mouthshut.com/images/imagesp/925755500s.jpg", WoW CINEMA
+https://m-c036-j2apps.s.llnwi.net/hls/2940.WOWCinemaOne.in.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="EXTRAS" logo="https://i.imgur.com/S3lVg3i.jpg?1", BOX CINEMA
+https://m-c01-j2apps.s.llnwi.net/hls/6523.BOXCinema.in.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="DESH TV" group="EXTRAS" logo="https://www.deshibiz.com/img/media/post/1463673459_desh-tv-logo.png", DESH TV
+https://ott.bingebd.com/live/ngrp:ott_desh_tv_mobile/chunklist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Star Sports 1 HD" group="EXTRAS" logo="https://s4.gifyu.com/images/image8119df5b2b32fa2b.png", Star Sports 1 HD
+http://otv.ftpbd.net/streams/104/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Star Sports Select 1 HD" group="EXTRAS" logo="https://s4.gifyu.com/images/imagef8fd29c06d7b96e6.png", Star Sports Select 1 HD
+http://otv.ftpbd.net/streams/113/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Star Sports Select 2 HD" group="EXTRAS" logo="https://s4.gifyu.com/images/image04e6530896d42919.png", Star Sports Select 2 HD
+http://otv.ftpbd.net/streams/114/index.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Sony Ten 1 HD" group="EXTRAS" logo="https://i.imgur.com/RgdbIbc.png", Sony Ten 1 HD
+https://load.airtelxstream.in/sonyten1hd/smil:common.smil/chunklist.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" name="Sony Ten 3 HD" group="EXTRAS" logo="https://i.imgur.com/9mL944k.jpg", Sony Ten 3 HD
+https://load.airtelxstream.in/sonyten3hd/smil:common.smil/chunklist.m3u8
