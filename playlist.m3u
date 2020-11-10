@@ -658,3 +658,88 @@ http://103.135.208.14:8082/25/index.m3u8?token=eec060133f8a8d09cbceeabd3018dfd0f
 http://103.135.208.14:8082/25/index.m3u8?token=eec060133f8a8d09cbceeabd3018dfd0f65acc32-f360d0b0f08770c50c75c5f5fe6ce5b9-1604846905-1604836105&remote=103.76.242.238
 #EXTINF:-1 group-title="BINGE TV2",Star sports sel 1 tem
 http://103.135.208.14:8082/27/index.m3u8?token=a6a8992c1379b49f4f8437ff2b5a49260c2d2d64-f4a9f3792b494fc84c751e129ed6dcb9-1604847060-1604836260&remote=103.76.242.238
+
+
+
+#EXTINF:-1 group-title="AK",Gazi TV
+http://aklivetv.com:8080/gazitv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Jamuna TV
+http://aklivetv.com:8080/jamunatv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Shomoy TV
+http://aklivetv.com:8080/somoytv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Channel I
+http://aklivetv.com:8080/channeli/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",News 24
+http://aklivetv.com:8080/news24/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Masranga
+http://aklivetv.com:8080/maasranga/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Channel 9
+http://aklivetv.com:8080/channel9/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Deepto TV
+http://aklivetv.com:8080/deeptotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Colors Bangla
+http://aklivetv.com:8080/colorsbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Sony 8
+http://aklivetv.com:8080/sony8/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Zee Bangla
+http://aklivetv.com:8080/zeebangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Zee Bangla Cinema
+http://aklivetv.com:8080/zeebanglacinema/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Star Jalsha
+http://aklivetv.com:8080/starjalsha/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Jalsha Movies
+http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",History
+http://aklivetv.com:8080/hbo/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Sony Max
+http://aklivetv.com:8080/sonymax/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Star Sports 2
+http://aklivetv.com:8080/starsports1/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Star Plus
+http://aklivetv.com:8080/sonysixhd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Sony Ten 1
+http://aklivetv.com:8080/sonyespn/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",9xm
+http://aklivetv.com:8080/9xm/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Sangit Bangla
+http://aklivetv.com:8080/sbangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Duronta
+http://aklivetv.com:8080/durantotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Nick
+http://aklivetv.com:8080/nick/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="AK",Zoom
+http://aklivetv.com:8080/cn/tracks-v1a1/mono.m3u8
+
+
+
+#EXTINF:-1 group-title="MB",Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+
+#EXTINF:-1 group-title="MB",Jamuna
+http://113.212.111.246:8080/hls/col21.m3u8
+
+#EXTINF:-1 group-title="MB",Discovery Science
+http://streamitv.multitvsolution.in/idvo/discoversciencehindi_360p/index.m3u8
