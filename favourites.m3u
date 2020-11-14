@@ -40,7 +40,7 @@ http://103.205.133.50/hls/ntv.m3u8
 http://103.205.133.50/hls/banglavision.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="DESH TV HD" group="BANGLA (BD)" logo="https://i.imgur.com/quDM4Y5.png", DESH TV HD
-https://ott.bingebd.com/live/ngrp:ZXOrtTn-asdt-s78TYU34GTX-03as-f7as-1ffd2-t1682a-sgh32x-zp3e-dsf-3b7aa-ort_621h_sWT564hQW_AQTY1025_desh_tvPQRT_9653SDE_s9023FGWQ_uiou_f36erxty_fort63_DH/playlist.m3u8
+http://103.205.133.50/hls/deshtv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://i.imgur.com/eP45j9z.jpg", ICC_ MOHONA TV
 http://103.205.133.50/hls/mohonatv.m3u8
@@ -96,6 +96,9 @@ http://103.205.133.50/hls/news24.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)", Alif TV
 http://128.199.212.160/alif/1080/index.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)", NRB TV
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/nrb-eu.stream/chunks.m3u8
+
 
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/SJHD.jpg" shift="1", Star Jalsha HD [IN]
@@ -126,7 +129,7 @@ http://103.205.133.50/hls/sony8.m3u8
 http://103.205.133.50/hls/ruposhibangla.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png", Jalsha Movies HD [IN]
-http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
+http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://i.imgur.com/hAmFkQB.jpg" shift="2", Jalsha Movies [IN] (2)
 http://otv.ftpbd.net/streams/115/index.m3u8
@@ -299,14 +302,14 @@ http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
 #EXTINF:0 type="stream" channelId="1330" group="ENGLISH MOVIES" logo="https://i.imgur.com/L8LTymM.jpg", HBO [Chinese]
 http://220.158.149.14:9999/live/TV00000000000000000166@HHZT;LIVE
 
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/diJCR16.png", MBC Action HD
-https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_2.m3u8?@amarnettv.live
+#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/smmZBzH.png", MBC MAX FHD
+https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_1.m3u8?@amarnettv.live
 
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/smmZBzH.png", MBC MAX HD
-https://shls-mbcmax-prod-dub.shahid.net/out/v1/13815a7cda864c249a88c38e66a2e653/index_2.m3u8?@amarnettv.live
+#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/uXHPdeq.jpg", MBC 2 FHD
+https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_1.m3u8?@amarnettv.live
 
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/uXHPdeq.jpg", MBC 2 HD
-https://shls-mbc2-prod-dub.shahid.net/out/v1/b4befe19798745fe986f5a9bfba62126/index_2.m3u8?@amarnettv.live
+#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/diJCR16.png", MBC Action FHD
+https://shls-mbcaction-prod-dub.shahid.net/out/v1/68dd761538e5460096c42422199d050b/index_1.m3u8?@amarnettv.live
 
 #EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://www.doomovie-hd.com/assets/img/ch_logo/hd-foxpremium.png", FOX MOVIES PREMIUM EN
 https://www.livedoomovies.com/02_FoxMoviesHD_720p/chunklist.m3u8
@@ -423,7 +426,7 @@ https://live-hls-web-aje.getaj.net/AJE/01.m3u8?@amarnettv.live
 https://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/index_1_av-p.m3u8?@IPTVSolution
 
 #EXTINF:0 type="stream" channelId="118" name="BBC-WORLD" group="WORLD NEWS" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FBBC_World_News_(TV_series)&psig=AOvVaw1Gue9gfVQpZLfMN7JBZIf5&ust=1596996311828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4_ISZjOsCFQAAAAAdAAAAABAw", BBC-WORLD
-http://anytv.live:8080/saiful/saiful/385
+https://livecdn.fptplay.net/qnetlive/bbcnew_2000.stream/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="4698" group="WORLD NEWS" logo="https://i.imgur.com/53N0NTK.png", Voice of America
 http://voa-lh.akamaihd.net/i/voa_mpls_tvmc6@320298/master.m3u8?@amarnettv.live
@@ -472,3 +475,9 @@ http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", DW
 http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
+
+#EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", Jalsha Movies HD
+http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="118" name="BBC-WORLD" group="NO SIGNAL" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FBBC_World_News_(TV_series)&psig=AOvVaw1Gue9gfVQpZLfMN7JBZIf5&ust=1596996311828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4_ISZjOsCFQAAAAAdAAAAABAw", BBC-WORLD
+http://anytv.live:8080/saiful/saiful/385
