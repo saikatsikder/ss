@@ -64,7 +64,7 @@ http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
 http://103.132.180.245:8080/2/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png", GAZI TV HD [BD]
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/6.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://dl.dropbox.com/s/7xwwb8hetz3w8rp/independent_tv.png", JAGO_INDEPENDENT TV [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/independent-8-org.stream/chunks.m3u8
@@ -146,7 +146,7 @@ http://103.205.133.50/hls/gaanbangla.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/atnmusic.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png", RTV Music [BD]
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+https://rhridoy136.shortcm.li/rtvmusic.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://i.imgur.com/klVzNhT.png", Sangeet Bangla [IN]
 http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
@@ -238,8 +238,8 @@ https://load.airtelxstream.in/sonymax/smil:common.smil/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="4462" group="HINDI MOVIES" logo="https://i.imgur.com/0piOCHd.png?1", Sony MAX2
 http://dx3.gcdn.co/hindi-SONYMAX2/index.m3u8
 
-#EXTINF:0 type="stream" channelId="3129" group="HINDI MOVIES" logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" shift="2", Zee Cinema HD (2)
-http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="3129" group="HINDI MOVIES" logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" shift="2", Zee Cinema HD
+http://103.205.133.50/hls/zeecinema.m3u8
 
 #EXTINF:0 type="stream" channelId="3128" group="HINDI MOVIES" logo="https://akamaividz.zee5.com/resources/0-9-zeecinema/list/386x386/09zeecinemazeecinema.png", Zee Cinema
 https://y5w8j4a9.ssl.hwcdn.net/cinemausa/index.m3u8
@@ -295,6 +295,9 @@ https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" name="Star Movies" group="ENGLISH MOVIES" logo="https://i.imgur.com/t7EdQXU.png", Star Movies
 http://otv.ftpbd.net/streams/125/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="Star Movies Select" group="ENGLISH MOVIES" logo="https://i.imgur.com/t7EdQXU.png", Star Movies Select
+http://iptv.kitv.live:1935/live/CTGDDN/CTGDDN/43.ts
 
 #EXTINF:0 type="stream" channelId="1330" group="ENGLISH MOVIES" logo="https://i.imgur.com/L8LTymM.jpg", HBO [India]
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
@@ -365,9 +368,6 @@ http://103.205.133.50/hls/ten2.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/E6iCIUM.png", ICC_Sony Ten 3
 http://103.205.133.50/hls/ten3.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" name="STARSP-1" group="SPORTS" logo="https://www.anytv.live/anytv/starsp1.png", STARSP-1
-http://anytv.live:8080/saiful/saiful/347
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
@@ -481,3 +481,15 @@ http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="118" name="BBC-WORLD" group="NO SIGNAL" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FBBC_World_News_(TV_series)&psig=AOvVaw1Gue9gfVQpZLfMN7JBZIf5&ust=1596996311828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4_ISZjOsCFQAAAAAdAAAAABAw", BBC-WORLD
 http://anytv.live:8080/saiful/saiful/385
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png", RTV Music [BD]
+https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
+
+#EXTINF:0 type="stream" channelId="3129" group="NO SIGNAL" logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" shift="2", Zee Cinema HD
+http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" name="STARSP-1" group="NO SIGNAL" logo="https://www.anytv.live/anytv/starsp1.png", STARSP-1
+http://anytv.live:8080/saiful/saiful/347
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png", GAZI TV HD [BD]
+http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
