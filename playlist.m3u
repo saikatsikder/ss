@@ -448,6 +448,14 @@ http://global.thunderbd.com/35/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 group-title="KIDS", Discovery Kids
+http://dx3.gcdn.co/kids-POGO/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="KIDS", Kids
+https://dx3.gcdn.co/kids-HUNGAMATV/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1 group-title="MUSIC", Mastiii
 http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 
