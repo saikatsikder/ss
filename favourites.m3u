@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://s4.gifyu.com/images/image062cdddeb243234b.png", BTV
+http://103.205.133.21/hls/btv.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://s4.gifyu.com/images/image062cdddeb243234b.png", BTV World
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/btvbd-office-sg.stream/chunks.m3u8
 
