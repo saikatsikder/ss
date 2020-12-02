@@ -134,11 +134,17 @@ http://103.205.133.21/hls/sony8.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://s6.gifyu.com/images/image225ddda68974970a.png", ICC_Ruposhi Bangla
 http://103.205.133.21/hls/ruposhibangla.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)", Enter 10
+https://raw.githubusercontent.com/amarnettv/amarnettv.github.io/master/channels/enter10.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/Jalsha_movies.png/220px-Jalsha_movies.png", Jalsha Movies HD [IN]
 http://aklivetv.com:8080/jalshamovies/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://i.imgur.com/hAmFkQB.jpg" shift="2", Jalsha Movies [IN] (2)
+#EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://i.imgur.com/hAmFkQB.jpg" shift="2", Jalsha Movies
 http://otv.ftpbd.net/streams/115/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://i.imgur.com/hAmFkQB.jpg" shift="2", Jalsha Movies
+https://rhridoy136.shortcm.li/starjalshamovies.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://i.imgur.com/WvrfVsv.jpg", Zee Bangla Cinema [IN]
 https://y5w8j4a9.ssl.hwcdn.net/zbanglacnm/tracks-v1a1/index.m3u8
@@ -302,11 +308,20 @@ https://timesnow.airtel.tv/live/MN_pull/master.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/7mxlvs6.png", MNX
 https://timesnow.airtel.tv/live/MNX_pull/master.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" name="Star Movies" group="ENGLISH MOVIES", Sony PIX HD
+http://witv.live:8880/live/82638/35787/2101.ts
+
+#EXTINF:0 type="stream" channelId="-1" name="Star Movies" group="ENGLISH MOVIES" logo="https://i.imgur.com/t7EdQXU.png", Star Movies HD
+http://witv.live:8880/live/82638/35787/2080.ts
+
 #EXTINF:0 type="stream" channelId="-1" name="Star Movies" group="ENGLISH MOVIES" logo="https://i.imgur.com/t7EdQXU.png", Star Movies HD
 http://xtream.pro:8080/blackpearl-sat/fKA3dn44CN/4861
 
 #EXTINF:0 type="stream" channelId="-1" name="Star Movies" group="ENGLISH MOVIES" logo="https://i.imgur.com/t7EdQXU.png", Star Movies
 http://otv.ftpbd.net/streams/125/index.m3u8
+
+#EXTINF:0 type="stream" channelId="1330" group="ENGLISH MOVIES" logo="https://i.imgur.com/L8LTymM.jpg", HBO HD
+http://witv.live:8880/live/82638/35787/2081.ts
 
 #EXTINF:0 type="stream" channelId="1330" group="ENGLISH MOVIES" logo="https://i.imgur.com/L8LTymM.jpg", HBO [India]
 http://ctgiptv.kitv.live:1935/live/test/test1/45.ts
@@ -337,6 +352,12 @@ http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", BEIN MOVIES 4 HD
 http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", UTV ACTION
+http://witv.live:8880/live/82638/35787/805.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", UTV
+http://witv.live:8880/live/82638/35787/811.ts
 
 
 
@@ -387,20 +408,35 @@ http://103.205.133.21/hls/ten2.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/E6iCIUM.png", ICC_Sony Ten 3
 http://103.205.133.21/hls/ten3.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Sony SIX HD
+http://witv.live:8880/live/82638/35787/1763.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 1 HD Hindi
+http://witv.live:8880/live/82638/35787/1072.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 1 HD
+http://witv.live:8880/live/82638/35787/808.ts
+
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
 https://rhridoy136.shortcm.li/starsports1hd.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 2 HD
+http://witv.live:8880/live/82638/35787/1069.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120947.jpg", ICC_Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/9w8g48Y.jpg", AMR_Star Sports Select 2 HD
-http://103.214.202.218:8081/live/select2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120947.jpg", Star Sports 2
+https://rhridoy136.shortcm.li/starsports2hd.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports Select 1 HD
+http://witv.live:8880/live/82638/35787/1070.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports Select 2 HD
-http://103.84.253.5/live/fastfeed1001/index.m3u8
+http://witv.live:8880/live/82638/35787/1071.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
+http://witv.live:8880/live/82638/35787/1068.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png", BEIN SPORT HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
@@ -514,3 +550,9 @@ http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
 http://113.212.111.246:8080/hls/col2.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
+http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL", Star Sports Select 2 HD
+http://103.84.253.5/live/fastfeed1001/index.m3u8
