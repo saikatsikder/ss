@@ -43,7 +43,7 @@ http://103.205.133.21/hls/ntv.m3u8
 http://103.205.133.21/hls/banglavision.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="DESH TV HD" group="BANGLA (BD)" logo="https://i.imgur.com/quDM4Y5.png", DESH TV HD
-http://103.205.133.21/hls/deshtv.m3u8
+https://rhridoy136.shortcm.li/deshtv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://i.imgur.com/eP45j9z.jpg", ICC_ MOHONA TV
 http://103.205.133.21/hls/mohonatv.m3u8
@@ -61,7 +61,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/channel9hd.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://dl.dropbox.com/s/tnbtox1w21v8233/maasranga_tv_bd.png", MAASRANGA TV HD [BD]
-http://ctgiptv.kitv.live:1935/live/test/test1/1.ts
+https://rhridoy136.shortcm.li/maasrangatv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png", GAZI TV HD [BD]
 http://103.132.180.245:8080/1/index.m3u8
@@ -372,6 +372,9 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/U8XrjmP.png", TITAS SPORTS [BD]
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/U8XrjmP.png", T SPORTS
+https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/QTRyKv9.png", ICC_Sony Ten 1
 http://103.205.133.21/hls/ten1.m3u8
 
@@ -382,7 +385,7 @@ http://103.205.133.21/hls/ten2.m3u8
 http://103.205.133.21/hls/ten3.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
-http://113.212.111.246:8080/hls/col2.m3u8
+https://rhridoy136.shortcm.li/starsports1hd.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120947.jpg", ICC_Star Sports 2
 http://103.205.133.21/hls/chss2.m3u8
@@ -505,3 +508,6 @@ http://anytv.live:8080/saiful/saiful/347
 
 #EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png", GAZI TV HD [BD]
 http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
+http://113.212.111.246:8080/hls/col2.m3u8
