@@ -438,7 +438,7 @@ http://witv.live:8880/live/82638/35787/1070.ts
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports Select 2 HD *
 http://witv.live:8880/live/82638/35787/1071.ts
 
-SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
 http://witv.live:8880/live/82638/35787/1068.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png", BEIN SPORT HD 1
