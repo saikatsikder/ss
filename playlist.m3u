@@ -1000,3 +1000,6 @@ https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/klVzNhT.png", Sangeet Bangla [IN]
 http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/6VL1Ke9.jpg", Akash Aath [IN]
+http://global.thunderbd.com/32/tracks-v1a1/mono.m3u8
