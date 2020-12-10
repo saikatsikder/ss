@@ -111,7 +111,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/27.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://dl.dropbox.com/s/uvggul87tnf930n/SJ.jpg" shift="2", Star Jalsha SD [IN]
-http://103.205.133.21/hls/chsj.m3u8
+http://103.205.133.48/hls/chsj.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (IN)" logo="https://github.com/amarnettv/amarnettv.github.io/raw/master/logo/ZBHD.jpg" shift="1", Zee Bangla HD [IN]
 http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/26.m3u8
@@ -161,7 +161,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://rhridoy136.shortcm.li/rtvmusic.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://i.imgur.com/klVzNhT.png", Sangeet Bangla [IN]
-http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
+http://103.205.133.21/hls/sangeetbangla.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="MUSIC" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424363/71120880.png", ICC_Dhoom Music
 http://103.205.133.21/hls/dhoommusic.m3u8
@@ -204,7 +204,7 @@ http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
 http://dx3.gcdn.co/hindi-STARPLUSindia/index.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="HINDI ENT." logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424356/71120779.jpg", ICC_Star Plus
-http://103.205.133.21/hls/chsp.m3u8
+http://103.205.133.48/hls/chsp.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="HINDI ENT." logo="https://akamaividz.zee5.com/resources/0-9-zeetvhd/list/386x386/09zeetvhdzeetvhd.png", Zee TV HD
 http://dx3.gcdn.co/hindi-ZEETVHD/index.m3u8
@@ -344,15 +344,6 @@ https://y5w8j4a9.ssl.hwcdn.net/andflixhd/index.m3u8
 #EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES" logo="https://i.imgur.com/XlJxZhQ.jpg", & Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", BEIN MOVIES 2 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD2/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", BEIN MOVIES 3 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD3/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", BEIN MOVIES 4 HD
-http://digitalxpress.gcdn.co/live1/BeinMoviesHD4/index.m3u8
-
 #EXTINF:0 type="stream" channelId="-1" group="ENGLISH MOVIES", UTV ACTION *
 http://witv.live:8880/live/82638/35787/805.ts
 
@@ -362,15 +353,15 @@ http://witv.live:8880/live/82638/35787/811.ts
 
 
 #EXTINF:0 type="stream" channelId="240" group="INFOTAINMENT" logo="https://www.anytv.live/anytv/sonymax.png", Animal Planet HD
-http://anytv.live:8080/saiful/saiful/340
+https://streamitv.multitvsolution.in/idvo/aphdhindi_540p/index.m3u8
 
-#EXTINF:0 type="stream" channelId="207" group="INFOTAINMENT" logo="https://i.imgur.com/7EppR2X.png", NAT GEO HD [CHINESE]
-https://www.fanmingming.cn/hls/natlgeo.m3u8
+#EXTINF:0 type="stream" channelId="207" group="INFOTAINMENT" logo="https://i.imgur.com/7EppR2X.png", NAT GEO HD
+https://livecdn.fptplay.net/foxlive/natgeohd_hls.smil/chunklist_b2500000.m3u8
 
-#EXTINF:0 type="stream" channelId="57" group="INFOTAINMENT" logo="https://i.imgur.com/ESeGnT2.jpg", Discovery [BANGLA]
+#EXTINF:0 type="stream" channelId="57" group="INFOTAINMENT" logo="https://i.imgur.com/ESeGnT2.jpg", Discovery BANGLA
 https://streamitv.multitvsolution.in/idvo/discoverybengali.m3u8
 
-#EXTINF:0 type="stream" channelId="341" group="INFOTAINMENT" logo="https://i.imgur.com/ESeGnT2.jpg", Discovery HD [ENGLISH]
+#EXTINF:0 type="stream" channelId="341" group="INFOTAINMENT" logo="https://i.imgur.com/ESeGnT2.jpg", Discovery HD ENGLISH
 https://streamitv.multitvsolution.in/idvo/discoveryhd.m3u8
 
 #EXTINF:0 type="stream" channelId="58" group="INFOTAINMENT" logo="https://i.imgur.com/4Wfs9kj.png", Discovery Science [HINDI]
@@ -378,6 +369,12 @@ https://streamitv.multitvsolution.in/idvo/discoversciencehindi.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="INFOTAINMENT" logo="https://upload.wikimedia.org/wikipedia/en/d/de/Discovery_asia.jpg", Discovry ASIA HD
 https://livecdn.fptplay.net/qnetlive/discoveryasia_hls.smil/chunklist_b2500000.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="INFOTAINMENT", History
+https://ch.iptvmate.net/5e9350258beb894140335ff6.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="INFOTAINMENT", History 2
+https://www.livedoomovies.com/02_H2HD_720p/chunklist.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="INFOTAINMENT" logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png", Love Nature 4K
 https://bamus-eng-roku.amagi.tv/playlist.m3u8
@@ -397,7 +394,7 @@ https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/titash.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/U8XrjmP.png", T SPORTS
-https://dx3.gcdn.co/ASTROCRICKET/tracks-v1a1/mono.m3u8
+http://103.144.214.130/channel1/ngrp:myStream_all/chunklist_b664000.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/QTRyKv9.png", Sony Ten 1 HD
 http://dx3.gcdn.co/TEN1HD/tracks-v1a1/mono.m3u8
@@ -518,44 +515,3 @@ http://172.22.22.76/live/feed1001/index.m3u8
 
 #EXTINF:0 type="favorites" channelId="-1" name="Channel 6" group="MYISP", Channel 6
 http://172.22.22.76/live/feed1006/index.m3u8
-
-
-
-#EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", ZEE BANGLA HD
-http://ctgiptv.kitv.live:1935/live/test/test1/26.ts
-
-#EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", DURONTO TV
-http://global.thunderbd.com/10/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", DW
-http://103.49.168.172:8081/ebox/in_dw/chunks.m3u8
-
-#EXTINF:0 type="favorites" channelId="-1" group="NO SIGNAL", Jalsha Movies HD
-http://global.thunderbd.com/31/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="118" name="BBC-WORLD" group="NO SIGNAL" logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogos.fandom.com%2Fwiki%2FBBC_World_News_(TV_series)&psig=AOvVaw1Gue9gfVQpZLfMN7JBZIf5&ust=1596996311828000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi4_ISZjOsCFQAAAAAdAAAAABAw", BBC-WORLD
-http://anytv.live:8080/saiful/saiful/385
-
-#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://tv.bdtype.com/uploads/tv_image/rtv-music.png", RTV Music [BD]
-https://bdsl.jagobd.com:444/c2VydmVyX6RpbEU8Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtvmusic.stream/live-orgin/rtvmusic.stream/chunks.m3u8
-
-#EXTINF:0 type="stream" channelId="3129" group="NO SIGNAL" logo="https://akamaividz.zee5.com/resources/0-9-zeecinemahd/list/386x386/09zeecinemahdzeecinemahd.png" shift="2", Zee Cinema HD
-http://global.thunderbd.com/76/tracks-v1a1/mono.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" name="STARSP-1" group="NO SIGNAL" logo="https://www.anytv.live/anytv/starsp1.png", STARSP-1
-http://anytv.live:8080/saiful/saiful/347
-
-#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/20/GTVBangladeshLogo.png/220px-GTVBangladeshLogo.png", GAZI TV HD [BD]
-http://103.102.136.106:8080/cmcltv/gtv_th.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
-http://113.212.111.246:8080/hls/col2.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
-http://125.209.99.45:43568/BRN/TenSports.stream/chunklist.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL", Star Sports Select 2 HD
-http://103.84.253.5/live/fastfeed1001/index.m3u8
-
-#EXTINF:0 type="stream" channelId="-1" name="PTVSPORS" group="SPORTS" logo="https://www.anytv.live/anytv/ptv.png", PTVSPORS
-http://anytv.live:8080/saiful/saiful/365
