@@ -52,7 +52,7 @@ https://rhridoy136.shortcm.li/deshtv.m3u8
 http://103.205.133.21/hls/mohonatv.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://s6.gifyu.com/images/image87250d092deb08a2.png", Bangla TV
-http://103.205.133.21/hls/banglatv.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/banglatvhd.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://s6.gifyu.com/images/image27cfa7002786c232.png", ATN Bangla
 http://103.205.133.21/hls/atnbangla.m3u8
@@ -94,7 +94,7 @@ http://ctgiptv.kitv.live:1935/live/ASNet/asnetwork/11.m3u8
 http://103.205.133.21/hls/dbcnews.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://i.pinimg.com/originals/ec/e5/e4/ece5e49e4a220e78fce6069486cf5339.jpg", JAMUNA TV
-http://103.205.133.21/hls/jamunatv.m3u8
+https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://i.imgur.com/TfqhT5g.png", News 24
 http://103.205.133.21/hls/news24.m3u8
@@ -189,8 +189,8 @@ http://ctgiptv.kitv.live:1935/live/ddnfree/ddnfree/12.m3u8
 #EXTINF:0 type="stream" channelId="2505" group="KIDS" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/2016_Discovery_Kids_logo.svg/1200px-2016_Discovery_Kids_logo.svg.png", Discovery Kids
 https://streamitv.multitvsolution.in/idvo/discoverykidshindi.m3u8
 
-#EXTINF:0 type="stream" channelId="41" group="KIDS" logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", NICK [Bangla]
-http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
+#EXTINF:0 type="stream" channelId="41" group="KIDS" logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", NICK Sonic [Bangla]
+https://rhridoy136.shortcm.li/sonic.m3u8
 
 #EXTINF:0 type="stream" channelId="40" group="KIDS" logo="https://i.imgur.com/M9Z5cfD.png", CARTOON NETWORK [Hindi]
 http://global.thunderbd.com/79/tracks-v1a1/mono.m3u8
@@ -406,18 +406,15 @@ https://rhridoy136.shortcm.li/sonyten2.m3u8
 http://dx3.gcdn.co/TEN3HD/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS", Sony SIX HD
-http://witv.live:8880/live/82638/35787/1763.ts
+http://208.115.215.42/Sony_Six_HD/tracks-v1a1/mono.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 1 HD Hindi
-http://witv.live:8880/live/82638/35787/1072.ts
-
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 1 HD
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 1 HD *
 http://witv.live:8880/live/82638/35787/808.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://i.imgur.com/KhZPrnw.jpg", Star Sports 1
 https://rhridoy136.shortcm.li/starsports1hd.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 2 HD
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports 2 HD *
 http://witv.live:8880/live/82638/35787/1069.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://m3u-editor.com/storage/channel-logos/240f5ca0-c383-11ea-a8de-81e06aece287/424360/71120947.jpg", ICC_Star Sports 2
@@ -432,7 +429,7 @@ http://witv.live:8880/live/82638/35787/1070.ts
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS", Star Sports Select 2 HD *
 http://witv.live:8880/live/82638/35787/1071.ts
 
-#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports *
 http://witv.live:8880/live/82638/35787/1068.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png", BEIN SPORT HD 1

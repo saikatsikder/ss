@@ -1003,3 +1003,6 @@ http://global.thunderbd.com/96/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="NO SIGNAL" logo="https://i.imgur.com/6VL1Ke9.jpg", Akash Aath [IN]
 http://global.thunderbd.com/32/tracks-v1a1/mono.m3u8
+
+#EXTINF:0 type="stream" channelId="41" group="NO SIGNAL" logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Bangla.png", NICK [Bangla]
+http://global.thunderbd.com/55/tracks-v1a1/mono.m3u8
