@@ -25,7 +25,7 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/bijoy00.stream/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://dl.dropbox.com/s/avuaf3stbx17d41/asian_tv_bd.png", ASIAN TV HD
-https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/asian-test-sample-ok-d.stream/chunks.m3u8
+http://163.172.29.246:8081/globalbd/asian/chunks.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="BANGLA (BD)" logo="https://s4.gifyu.com/images/imaged089f3331cb4f590.png", Nagorik TV
 http://103.205.133.21/hls/nagorik.m3u8
@@ -431,6 +431,9 @@ http://witv.live:8880/live/82638/35787/1071.ts
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://ttensports.com/wp-content/uploads/2019/10/Ten-sports.png", Ten Sports *
 http://witv.live:8880/live/82638/35787/1068.ts
+
+#EXTINF:0 type="stream" channelId="-1" group="SPORTS", PTV Sports
+http://103.146.55.212:8088/ptvspors/tracks-v1a1/mono.m3u8
 
 #EXTINF:0 type="stream" channelId="-1" group="SPORTS" logo="https://www.doomovie-hd.com/assets/img/ch_logo/epl-bein1.png", BEIN SPORT HD 1
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
