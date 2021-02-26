@@ -1015,3 +1015,6 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 #EXTINF:0 type="favorites" channelId="-1" group="STREAM", Taqdeer S01E01
 https://drive.google.com/file/d/1mphFjhXc5aR57QSJuHOsEKoGbfFhMIAw/view
+
+#EXTINF:0 type="stream" channelId="-1" group="STREAM" logo="https://i.imgur.com/6uT41kj.png", Tom And Jerry
+http://172.22.22.101/s1d4/index.php?dir=English%20Movies/Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO/&file=Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO.mkv
