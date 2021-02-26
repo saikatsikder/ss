@@ -1015,5 +1015,8 @@ https://tempskyview.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEo
 
 
 
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="BrightWall Technology (Movie)",Tom
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="Saikat (Movie)",Tom
 http://172.22.22.101/s1d4/index.php?dir=English%20Movies/Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO/&file=Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO.mkv
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="Saikat (Movie)",WandaVision
+http://data103.mazedanetworks.net/ftpdata/tv_shows_eng/index.php?dir=WandaVision%20%5B2021%5D/&file=WandaVision.S01E07.mkv
