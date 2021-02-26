@@ -1019,3 +1019,6 @@ http://172.22.22.101/s1d4/index.php?dir=English%20Movies/Tom.%26.Jerry.2021.1080
 
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="Saikat (Movie)",WandaVision
 http://data103.mazedanetworks.net/ftpdata/tv_shows_eng/index.php?dir=WandaVision%20%5B2021%5D/&file=WandaVision.S01E07.mkv
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Pi" tvg-logo="" group-title="Saikat (Movie)",Legends
+ftp://192.168.0.105/MCU TV Series/Marvel.Studios.LEGENDS.S01.EP.01-02.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly/Marvel.Studios.LEGENDS.S01E01.Wanda.Maximoff.1080p.DSNP.WEB-DL.DD+5.1.x264-Telly.mkv
