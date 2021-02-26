@@ -473,3 +473,6 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 
 #EXTINF:0 type="stream" channelId="-1" group="RELIGIOUS" logo="https://i.imgur.com/6uT41kj.png", Saudi Sunnah
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
+
+#EXTINF:0 type="stream" channelId="-1" group="MOVIE" logo="https://i.imgur.com/6uT41kj.png", Tom And Jerry
+http://172.22.22.101/s1d4/index.php?dir=English%20Movies/Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO/&file=Tom.%26.Jerry.2021.1080p.HMAX.WEB-DL.DDP5.1.H.264-EVO.mkv
