@@ -494,6 +494,10 @@ http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_qu
 http://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_sunnah.m3u8
 
 
+#EXTINF:0 type="favorites" channelId="-1" name="Toffee World Cup" group="NEW", Toffee World Cup
+https://mprod-cdn.toffeelive.com/toffee/fifa-paid/match-1/master_1000.m3u8
+
+
 #EXTINF:0 type="favorites" channelId="-1" name="World Cup" group="MYISP", World Cup
 http://172.22.22.76/live/fifa2022/index.m3u8
 
